@@ -12,6 +12,7 @@ class Anagram
     end
     if nil
       nil.to_a
+    end
   end
 
 end
